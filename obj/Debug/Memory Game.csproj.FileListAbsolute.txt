@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\obj\Debug\Memory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\User\source\repos\Codelex_roCe\csharp-basics\exercises\MiniProjects\Memory Game\obj\Debug\Memory Game.pdb
